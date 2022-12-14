@@ -1,0 +1,23 @@
+{
+  "name": "kata-locationlocationlocation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "location.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McLaughlan/kata-LocationLocationLocation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McLaughlan/kata-LocationLocationLocation/issues"
+  },
+  "homepage": "https://github.com/McLaughlan/kata-LocationLocationLocation#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
